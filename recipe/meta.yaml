@@ -1,4 +1,4 @@
-{% set version = "7.3.2" %} 
+{% set version = "7.3.3" %} 
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,10 +9,10 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/roxygen2_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/roxygen2/roxygen2_{{ version }}.tar.gz
-  sha256: b788879f9132b7e2e656f442a6c592314676a9bf32d6a0a56e156cfa1ada011c
+  sha256: da416e3ee2abed610da42d42a1a6947c70ef96f74880a35c9dc1e423c359614a
 
 build:
-  number: 1
+  number: 0
   rpaths:
     - lib/R/lib/
     - lib/
