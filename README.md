@@ -7,20 +7,28 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-roxygen2-feed
 About r-roxygen2
 ----------------
 
-Home: https://github.com/klutometis/roxygen
+Home: https://roxygen2.r-lib.org
 
 Package license: MIT
 
 Summary: Generate your Rd documentation, 'NAMESPACE' file, and collation  field using specially formatted comments. Writing documentation in-line with code makes it easier to keep your documentation up-to-date as your requirements change. 'Roxygen2' is inspired by the 'Doxygen' system for C++.
+
+Development: https://github.com/klutometis/roxygen
+
+Documentation: https://roxygen2.r-lib.org/reference/index.html
 
 About r-roxygen2
 ----------------
 
-Home: https://github.com/klutometis/roxygen
+Home: https://roxygen2.r-lib.org
 
 Package license: MIT
 
 Summary: Generate your Rd documentation, 'NAMESPACE' file, and collation  field using specially formatted comments. Writing documentation in-line with code makes it easier to keep your documentation up-to-date as your requirements change. 'Roxygen2' is inspired by the 'Doxygen' system for C++.
+
+Development: https://github.com/klutometis/roxygen
+
+Documentation: https://roxygen2.r-lib.org/reference/index.html
 
 Current build status
 ====================
